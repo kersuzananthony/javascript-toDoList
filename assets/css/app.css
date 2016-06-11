@@ -5,9 +5,10 @@ body {
 .container {
     width: 360px;
     margin: 0 auto;
-    background: gray;
+    border: solid 2px gray;
 }
 
-.title {
-    margin-top: 0;
+.finished {
+    color: gray;
+    text-decoration: line-through;
 }
