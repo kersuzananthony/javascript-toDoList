@@ -29,7 +29,7 @@ $(document).ready(function() {
 
         this.addToDoItem = function(text) {
             console.log("add");
-            var newElement = "<li class='todo'><span class='delete-button'>X</span>" + text + "</li>";
+            var newElement = "<li class='todo'><span class='delete-button'><i class='fa fa-trash'></i></span>" + text + "</li>";
             self.toDoListWrapper.append(newElement);
             self.todosElement.push(newElement);
             self.todosObject.push(new app.toDoItem(newElement));
@@ -57,13 +57,15 @@ $(document).ready(function() {
 
         this.toDoListWrapper.delegate("li.todo span", "click", function($event) {
             $event.stopPropagation();
-            var parent = $($event.target).parent();
+            var parent = $(this).parent();
             var index = $('li.todo').index(parent[0]);
-
             self.todosObject[index].delete(parent);
             self.todosElement.splice(index, 1);
             self.todosObject.splice(index, 1);
         });
     })();
 
+    $('.fa-plus').on('click', function () {
+        $('.add-todo-input').fadeToggle();
+    })
 });
