@@ -20,11 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assets/js/app.js">
+      <file leaf-file-name="app.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/css/app.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+            <state relative-caret-position="153">
+              <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -37,8 +37,8 @@
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/assets/css/app.css" />
         <option value="$PROJECT_DIR$/assets/js/app.js" />
+        <option value="$PROJECT_DIR$/assets/css/app.css" />
       </list>
     </option>
   </component>
@@ -210,12 +210,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1465612344256</updated>
-      <workItem from="1465612345328" duration="1872000" />
+      <workItem from="1465612345328" duration="6988000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1872000" />
+    <option name="totallyTimeSpent" value="6988000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -2273,8 +2273,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="84" selection-start-line="14" selection-start-column="84" selection-end-line="14" selection-end-column="84" />
+        <state relative-caret-position="204">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="24" />
           <folding>
             <marker date="1465612982000" expanded="true" signature="31:644" placeholder="..." />
             <marker date="1465612982000" expanded="true" signature="38:213" placeholder="..." />
@@ -2285,22 +2285,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/app.css">
+    <entry file="file://$PROJECT_DIR$/assets/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
           <folding>
-            <marker date="1465613252000" expanded="true" signature="5:28" placeholder="{...}" />
-            <marker date="1465613252000" expanded="true" signature="41:110" placeholder="{...}" />
-            <marker date="1465613252000" expanded="true" signature="122:177" placeholder="{...}" />
+            <marker date="1465622478000" expanded="true" signature="51:2231" placeholder="{...}" />
+            <marker date="1465622478000" expanded="true" signature="92:229" placeholder="{...}" />
+            <marker date="1465622478000" expanded="true" signature="284:410" placeholder="{...}" />
+            <marker date="1465622478000" expanded="true" signature="361:402" placeholder="{...}" />
+            <marker date="1465622478000" expanded="true" signature="466:557" placeholder="{...}" />
+            <marker date="1465622478000" expanded="true" signature="591:2224" placeholder="{...}" />
+            <marker date="1465622478000" expanded="true" signature="770:1125" placeholder="{...}" />
+            <marker date="1465622478000" expanded="true" signature="1245:1379" placeholder="{...}" />
+            <marker date="1465622478000" expanded="true" signature="1441:1586" placeholder="{...}" />
+            <marker date="1465622478000" expanded="true" signature="1479:1576" placeholder="{...}" />
+            <marker date="1465622478000" expanded="true" signature="1659:1828" placeholder="{...}" />
+            <marker date="1465622478000" expanded="true" signature="1912:2216" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/app.js">
+    <entry file="file://$PROJECT_DIR$/assets/css/app.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        <state relative-caret-position="153">
+          <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
           <folding />
         </state>
       </provider>

@@ -4,8 +4,12 @@ body {
 
 .container {
     width: 360px;
-    margin: 0 auto;
+    margin: 100px auto;
     border: solid 2px gray;
+    background-color: #f7f7f7;
+    -webkit-box-shadow: 0 0 3px rgba(0, 0, 0, 0.4);
+    -moz-box-shadow: 0 0 3px rgba(0, 0, 0, 0.4);
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.4);
 }
 
 .finished {
