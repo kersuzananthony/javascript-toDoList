@@ -1,2 +1,13 @@
 body {
+    margin: 0 auto;
+}
+
+.container {
+    width: 360px;
+    margin: 0 auto;
+    background: gray;
+}
+
+.title {
+    margin-top: 0;
 }
